@@ -13,11 +13,7 @@
     "48": "favicon.png",
     "128": "favicon.png"
   },
-  "permissions": [
-    "storage",
-    "unlimitedStorage",
-    "alarms"
-  ],
+  "permissions": [],
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'; script-src-elem 'self'"
   },
